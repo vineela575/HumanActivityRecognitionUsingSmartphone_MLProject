@@ -1,0 +1,1 @@
+# HumanActivityRecognitionUsingSmartphone_MLProject
